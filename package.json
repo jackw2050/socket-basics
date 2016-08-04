@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jackw2050/socket-basics/issues"
   },
-  "homepage": "https://github.com/jackw2050/socket-basics#readme"
+  "homepage": "https://github.com/jackw2050/socket-basics#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
